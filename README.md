@@ -1,2 +1,2 @@
 # Practic_exercises
-https://github.com/anvarnarz/python-darslar da berilgan darslar
+https://github.com/anvarnarz/python-darslar web-saytida berilgan darslarga amal qilgan holda bajarilgan amaliy mashqlar
